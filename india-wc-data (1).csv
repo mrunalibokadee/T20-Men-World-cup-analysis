@@ -1,0 +1,45 @@
+Team,score_real,wickets_lost,Overs,RPO,Inns,Result,Margin,BR,Toss,Opposition,Ground,Year,Stage
+India,0,0,0,-,0,n/r,-,,lost,v Scotland,Durban,2007,Group
+India,141,9,20,7.05,1,tied,-,,lost,v Pakistan,Durban,2007,Group
+India,180,9,20,9,2,lost,10 runs,,won,v New Zealand,Johannesburg,2007,Super 8
+India,218,4,20,10.9,1,won,18 runs,,won,v England,Durban,2007,Super 8
+India,153,5,20,7.65,1,won,37 runs,,won,v South Africa,Durban,2007,Super 8
+India,188,5,20,9.4,1,won,15 runs,,won,v Australia,Durban,2007,Semis
+India,157,5,20,7.85,1,won,5 runs,,won,v Pakistan,Johannesburg,2007,Final
+India,180,5,20,9,1,won,25 runs,,won,v Bangladesh,Nottingham,2009,Group
+India,113,2,15.3,7.29,2,won,8 wickets,15,won,v Ireland,Nottingham,2009,Group
+India,153,7,20,7.65,1,lost,7 wickets,8,won,v West Indies,Lord's,2009,Super 8
+India,150,5,20,7.5,2,lost,3 runs,,won,v England,Lord's,2009,Super 8
+India,118,8,20,5.9,2,lost,12 runs,,lost,v South Africa,Nottingham,2009,Super 8
+India,116,3,14.5,7.82,2,won,7 wickets,31,won,v Afghanistan,Gros Islet,2010,Group
+India,186,5,20,9.3,1,won,14 runs,,lost,v South Africa,Gros Islet,2010,Group
+India,135,10,17.4,7.64,2,lost,49 runs,,won,v Australia,Bridgetown,2010,Super 8
+India,155,9,20,7.75,2,lost,14 runs,,won,v West Indies,Bridgetown,2010,Super 8
+India,163,5,20,8.15,1,lost,5 wickets,0,won,v Sri Lanka,Gros Islet,2010,Super 8
+India,159,5,20,7.95,1,won,23 runs,,lost,v Afghanistan,Colombo (RPS),2012,Group
+India,170,4,20,8.5,1,won,90 runs,,lost,v England,Colombo (RPS),2012,Group
+India,140,7,20,7,1,lost,9 wickets,31,won,v Australia,Colombo (RPS),2012,Super 8
+India,129,2,17,7.58,2,won,8 wickets,18,lost,v Pakistan,Colombo (RPS),2012,Super 8
+India,152,6,20,7.6,1,won,1 runs,,lost,v South Africa,Colombo (RPS),2012,Super 8
+India,131,3,18.3,7.08,2,won,7 wickets,9,won,v Pakistan,Mirpur,2014,Group
+India,130,3,19.4,6.61,2,won,7 wickets,2,won,v West Indies,Mirpur,2014,Group
+India,141,2,18.3,7.62,2,won,8 wickets,9,won,v Bangladesh,Mirpur,2014,Group
+India,159,7,20,7.95,1,won,73 runs,,lost,v Australia,Mirpur,2014,Group
+India,176,4,19.1,9.18,2,won,6 wickets,5,lost,v South Africa,Mirpur,2014,Semis
+India,130,4,20,6.5,1,lost,6 wickets,13,lost,v Sri Lanka,Mirpur,2014,Final
+India,79,10,18.1,4.34,2,lost,47 runs,,lost,v New Zealand,Nagpur,2016,Group
+India,119,4,15.5,7.51,2,won,6 wickets,13,won,v Pakistan,Eden Gardens,2016,Group
+India,146,7,20,7.3,1,won,1 runs,,lost,v Bangladesh,Bengaluru,2016,Group
+India,161,4,19.1,8.4,2,won,6 wickets,5,lost,v Australia,Mohali,2016,Group
+India,192,2,20,9.6,1,lost,7 wickets,2,lost,v West Indies,Wankhede,2016,Semis
+India,151,7,20,7.55,1,lost,10 wickets,13,lost,v Pakistan,Dubai (DICS),2021,Group
+India,110,7,20,5.5,1,lost,8 wickets,33,lost,v New Zealand,Dubai (DICS),2021,Group
+India,210,2,20,10.5,1,won,66 runs,,lost,v Afghanistan,Abu Dhabi,2021,Group
+India,89,2,6.3,13.69,2,won,8 wickets,81,won,v Scotland,Dubai (DICS),2021,Group
+India,136,1,15.2,8.86,2,won,9 wickets,28,won,v Namibia,Dubai (DICS),2021,Group
+India,160,6,20,8,2,won,4 wickets,0,won,v Pakistan,Melbourne,2022,Group
+India,179,2,20,8.95,1,won,56 runs,,won,v Netherlands,Sydney,2022,Group
+India,133,9,20,6.65,1,lost,5 wickets,2,won,v South Africa,Perth,2022,Group
+India,184,6,20,9.2,1,won,5 runs,,lost,v Bangladesh,Adelaide,2022,Group
+India,186,5,20,9.3,1,won,71 runs,,won,v Zimbabwe,Melbourne,2022,Group
+India,168,6,20,8.4,1,lost,10 wickets,24,lost,v England,Adelaide,2022,Semis
