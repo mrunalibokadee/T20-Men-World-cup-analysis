@@ -42,7 +42,7 @@ order by BR desc
 
 ###margin of victory above 50 runs?
 SELECT
-*,
+*
 left(margin,strpos(margin,"runs")-1)
  FROM t20worldcup.`india-wc-data (1)`
  where Inns=1
