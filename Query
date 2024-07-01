@@ -1,31 +1,30 @@
-overall record
-
+###overall record
 SELECT
 Result,count(*)
  FROM t20worldcup.`india-wc-data (1)`
  group by result
 
-head to head vs teams
+###head to head vs teams
 SELECT 
 opposition,count(*)
 FROM t20worldcup.`india-wc-data (1)`
 group by opposition,result
 order by opposition
 
-records in knockout games
+###records in knockout games
 SELECT 
 *
 FROM t20worldcup.`india-wc-data (1)`
 where stage in ('semis','final')
 
-bat first vs chase record
+###bat first vs chase record
 SELECT 
 inns, result,count(*)
 FROM t20worldcup.`india-wc-data (1)`
 group by inns, result
 order by inns
 
-160+ batting first what has happened
+###160+ batting first what has happened
 SELECT 
 result,count(*)
 FROM t20worldcup.`india-wc-data (1)`
@@ -33,7 +32,7 @@ where inns = 1
 and score_real>160
 group by result
 
-biggest win terms of balls remaining
+###biggest win terms of balls remaining
 SELECT 
 *
 FROM t20worldcup.`india-wc-data (1)`
@@ -41,7 +40,7 @@ where inns = 2
 and result='won' 
 order by BR desc
 
-margin of victory above 50 runs?
+###margin of victory above 50 runs?
 SELECT
 *,
 left(margin,strpos(margin,"runs")-1)
